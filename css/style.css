@@ -48,6 +48,10 @@ div {float:right;
 
 p {height: auto;}	
 
+h1 {
+	text-align: center;
+}
+
 /*** Desktop view ***/
 	@media (min-width: 992px) {
 		section{width: 31%;
