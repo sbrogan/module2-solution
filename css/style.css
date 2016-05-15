@@ -39,9 +39,11 @@
 }
 
 div {float:right;
-
 }
-	/*** Desktop view ***/
+
+p {height: auto;}	
+
+/*** Desktop view ***/
 	@media (min-width: 992px) {
 		section{width: 31%;
 				float: left;}
